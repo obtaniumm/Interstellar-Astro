@@ -3,7 +3,7 @@
 **/node_modules
 **/.vercel
 **/.astro
-**./pnpm-store
+./pnpm-store
 
 # Logs
 npm-debug.log*
